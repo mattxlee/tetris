@@ -1,0 +1,1 @@
+﻿package  {		public interface ITrBlocks {		// Interface methods:		function getNumOfCols();		function getNumOfRows();				function getValue(i: Number, j: Number);				function turnLeft();		function turnRight();	}	}
