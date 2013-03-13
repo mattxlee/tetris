@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.BitmapData;			public class TrBlockRed extends BitmapData {						public function TrBlockRed() {			// constructor code		}	}	}

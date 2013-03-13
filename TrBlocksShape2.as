@@ -1,0 +1,1 @@
+﻿package  {		public class TrBlocksShape2 extends TrAbstractBlocks {		public function TrBlocksShape2() {			// constructor code			var shape1 = [[1, 1, 1, 1]];			var shape2 = [[1],						  [1],						  [1],						  [1]];						  			addShape(shape1);			addShape(shape2);		}	}	}
