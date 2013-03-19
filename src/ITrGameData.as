@@ -1,0 +1,1 @@
+﻿package  {		public interface ITrGameData {		// Interface methods:		function getCol():Number;		function getRow():Number;		function getValue(i: Number, j: Number):Number;		function setValue(i: Number, j: Number, val: Number):void;	}	}
